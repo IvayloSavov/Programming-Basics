@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00c7c5a0-f09c-4973-94d9-6538c50b8ee1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YAYJE85cd2OZesKBRsU4qfHblJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.day_of_week">
+    <configuration name="day_of_week" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="conditional_statements_advanced_lab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_of_week.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="e" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="conditional_statements_advanced_lab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/e.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="invalid_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="conditional_statements_advanced_lab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/invalid_number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ski_trip_my" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="conditional_statements_advanced_lab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ski_trip_my.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trade_commissions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="conditional_statements_advanced_lab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trade_commissions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.day_of_week" />
+        <item itemvalue="Python.ski_trip_my" />
+        <item itemvalue="Python.trade_commissions" />
+        <item itemvalue="Python.e" />
+        <item itemvalue="Python.invalid_number" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00c7c5a0-f09c-4973-94d9-6538c50b8ee1" name="Default Changelist" comment="" />
+      <created>1582386791962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582386791962</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1582390190721">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582390190721" />
+    <state width="1259" height="204" key="GridCell.Tab.-1.bottom" timestamp="1582389738123">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.-1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582389738123" />
+    <state width="1259" height="204" key="GridCell.Tab.-1.center" timestamp="1582389738123">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.-1.center/0.0.1280.680@0.0.1280.680" timestamp="1582389738123" />
+    <state width="1259" height="204" key="GridCell.Tab.-1.left" timestamp="1582389738123">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.-1.left/0.0.1280.680@0.0.1280.680" timestamp="1582389738123" />
+    <state width="1259" height="204" key="GridCell.Tab.-1.right" timestamp="1582389738123">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.-1.right/0.0.1280.680@0.0.1280.680" timestamp="1582389738123" />
+    <state width="617" height="167" key="GridCell.Tab.0.bottom" timestamp="1582967226620">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="617" height="167" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582967226620" />
+    <state width="617" height="167" key="GridCell.Tab.0.center" timestamp="1582967226620">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="617" height="167" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582967226620" />
+    <state width="617" height="167" key="GridCell.Tab.0.left" timestamp="1582967226620">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="617" height="167" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582967226620" />
+    <state width="617" height="167" key="GridCell.Tab.0.right" timestamp="1582967226620">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="617" height="167" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582967226620" />
+    <state x="0" y="433" width="618" height="199" key="GridCell.Tab.1.bottom" timestamp="1582473418352">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="433" width="618" height="199" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582473418352" />
+    <state x="0" y="433" width="618" height="199" key="GridCell.Tab.1.center" timestamp="1582473418352">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="433" width="618" height="199" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1582473418352" />
+    <state x="0" y="433" width="618" height="199" key="GridCell.Tab.1.left" timestamp="1582473418352">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="433" width="618" height="199" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1582473418352" />
+    <state x="0" y="433" width="618" height="199" key="GridCell.Tab.1.right" timestamp="1582473418352">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="433" width="618" height="199" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1582473418352" />
+    <state x="0" y="433" width="337" height="176" key="GridCell.Tab.2.bottom" timestamp="1582395164545">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="433" width="337" height="176" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582395164545" />
+    <state x="0" y="433" width="337" height="176" key="GridCell.Tab.2.center" timestamp="1582395164545">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="433" width="337" height="176" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1582395164545" />
+    <state x="0" y="433" width="337" height="176" key="GridCell.Tab.2.left" timestamp="1582395164545">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="433" width="337" height="176" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1582395164545" />
+    <state x="0" y="433" width="337" height="176" key="GridCell.Tab.2.right" timestamp="1582395164545">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="433" width="337" height="176" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1582395164545" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1582992335928">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1582992335928" />
+    <state x="887" y="69" width="351" height="241" key="dock-window-1" timestamp="1582389849751">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="887" y="69" width="351" height="241" key="dock-window-1/0.0.1280.680@0.0.1280.680" timestamp="1582389849751" />
+    <state x="887" y="69" width="351" height="241" key="dock-window-2" timestamp="1582389849751">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="887" y="69" width="351" height="241" key="dock-window-2/0.0.1280.680@0.0.1280.680" timestamp="1582389849751" />
+    <state x="887" y="69" width="351" height="241" key="dock-window-3" timestamp="1582389849751">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="887" y="69" width="351" height="241" key="dock-window-3/0.0.1280.680@0.0.1280.680" timestamp="1582389849751" />
+    <state x="-22" y="433" width="351" height="241" key="dock-window-4" timestamp="1582389849751">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-22" y="433" width="351" height="241" key="dock-window-4/0.0.1280.680@0.0.1280.680" timestamp="1582389849751" />
+    <state x="0" y="433" width="351" height="241" key="dock-window-5" timestamp="1582395341491">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="433" width="351" height="241" key="dock-window-5/0.0.1280.680@0.0.1280.680" timestamp="1582395341491" />
+    <state x="0" y="433" width="351" height="241" key="dock-window-6" timestamp="1582395341491">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="433" width="351" height="241" key="dock-window-6/0.0.1280.680@0.0.1280.680" timestamp="1582395341491" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/demo.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/demo.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fruit_or_vegetable.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ski_trip.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/invalid_number.py</url>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade_commissions.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade_commissions.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade_commissions.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade_commissions.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ski_trip_my.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ski_trip_my.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ski_trip_my.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ski_trip_my.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ski_trip_my.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ski_trip_my.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ski_trip_my.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80f3cb9f-1be4-4410-85f9-f9ed01b75be2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="nested_loops_exercise" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZMCKq8k4WYJb544BIEctP3WpVL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.special_numbers_2">
+    <configuration name="password_generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nested_loops_exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/password_generator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="special_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nested_loops_exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/special_numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="special_numbers_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nested_loops_exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/special_numbers_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sum_prime_non_prime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nested_loops_exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sum_prime_non_prime.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_the_trainers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nested_loops_exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_the_trainers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.special_numbers_2" />
+        <item itemvalue="Python.special_numbers" />
+        <item itemvalue="Python.password_generator" />
+        <item itemvalue="Python.train_the_trainers" />
+        <item itemvalue="Python.sum_prime_non_prime" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80f3cb9f-1be4-4410-85f9-f9ed01b75be2" name="Default Changelist" comment="" />
+      <created>1584639514424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584639514424</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="99" key="FileChooserDialogImpl" timestamp="1584981666321">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="100" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1584981666321" />
+    <state width="1259" height="204" key="GridCell.Tab.-1.bottom" timestamp="1584713462561">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.-1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584713462561" />
+    <state width="1259" height="204" key="GridCell.Tab.-1.center" timestamp="1584713462561">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.-1.center/0.0.1280.680@0.0.1280.680" timestamp="1584713462561" />
+    <state width="1259" height="204" key="GridCell.Tab.-1.left" timestamp="1584713462561">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.-1.left/0.0.1280.680@0.0.1280.680" timestamp="1584713462561" />
+    <state width="1259" height="204" key="GridCell.Tab.-1.right" timestamp="1584713462561">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.-1.right/0.0.1280.680@0.0.1280.680" timestamp="1584713462561" />
+    <state width="1259" height="162" key="GridCell.Tab.0.bottom" timestamp="1584980194747">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584980194747" />
+    <state width="1259" height="162" key="GridCell.Tab.0.center" timestamp="1584980194747">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584980194747" />
+    <state width="1259" height="162" key="GridCell.Tab.0.left" timestamp="1584980194747">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584980194747" />
+    <state width="1259" height="162" key="GridCell.Tab.0.right" timestamp="1584980194747">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584980194747" />
+    <state x="669" y="152" width="1259" height="203" key="GridCell.Tab.1.bottom" timestamp="1584800776380">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="669" y="152" width="1259" height="203" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584800776380" />
+    <state x="669" y="152" width="1259" height="203" key="GridCell.Tab.1.center" timestamp="1584800776380">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="669" y="152" width="1259" height="203" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1584800776380" />
+    <state x="669" y="152" width="1259" height="203" key="GridCell.Tab.1.left" timestamp="1584800776380">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="669" y="152" width="1259" height="203" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1584800776380" />
+    <state x="669" y="152" width="1259" height="203" key="GridCell.Tab.1.right" timestamp="1584800776380">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="669" y="152" width="1259" height="203" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1584800776380" />
+    <state x="669" y="152" width="400" height="176" key="GridCell.Tab.2.bottom" timestamp="1584715562559">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="669" y="152" width="400" height="176" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584715562559" />
+    <state x="669" y="152" width="400" height="176" key="GridCell.Tab.2.center" timestamp="1584715562559">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="669" y="152" width="400" height="176" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1584715562559" />
+    <state x="669" y="152" width="400" height="176" key="GridCell.Tab.2.left" timestamp="1584715562559">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="669" y="152" width="400" height="176" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1584715562559" />
+    <state x="669" y="152" width="400" height="176" key="GridCell.Tab.2.right" timestamp="1584715562559">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="669" y="152" width="400" height="176" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1584715562559" />
+    <state x="30" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1584981652327">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="30" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584981652327" />
+    <state x="880" y="145" width="414" height="241" key="dock-window-1" timestamp="1584713618317">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="880" y="145" width="414" height="241" key="dock-window-1/0.0.1280.680@0.0.1280.680" timestamp="1584713618317" />
+    <state x="669" y="152" width="414" height="241" key="dock-window-2" timestamp="1584713618317">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="669" y="152" width="414" height="241" key="dock-window-2/0.0.1280.680@0.0.1280.680" timestamp="1584713618317" />
+    <state x="669" y="152" width="414" height="241" key="dock-window-3" timestamp="1584715425921">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="669" y="152" width="414" height="241" key="dock-window-3/0.0.1280.680@0.0.1280.680" timestamp="1584715425921" />
+    <state x="-22" y="436" width="414" height="241" key="dock-window-4" timestamp="1584717447514">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-22" y="436" width="414" height="241" key="dock-window-4/0.0.1280.680@0.0.1280.680" timestamp="1584717447514" />
+    <state x="107" y="445" width="672" height="678" key="search.everywhere.popup" timestamp="1584714749295">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="107" y="445" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1584714749295" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/number_pyramid.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/equal_sums_even_odd_position.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sum_prime_non_prime.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sum_prime_non_prime.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sum_prime_non_prime.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/password_generator.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/special_numbers.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
